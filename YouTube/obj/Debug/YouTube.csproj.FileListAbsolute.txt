@@ -1,0 +1,8 @@
+E:\OneDrive\Paramitec\Projects\Archive4\YouTube\YouTube\bin\Debug\YouTube.dll.config
+E:\OneDrive\Paramitec\Projects\Archive4\YouTube\YouTube\bin\Debug\YouTube.dll
+E:\OneDrive\Paramitec\Projects\Archive4\YouTube\YouTube\bin\Debug\YouTube.pdb
+E:\OneDrive\Paramitec\Projects\Archive4\YouTube\YouTube\obj\Debug\YouTube.csprojResolveAssemblyReference.cache
+E:\OneDrive\Paramitec\Projects\Archive4\YouTube\YouTube\obj\Debug\YouTube.Properties.Resources.resources
+E:\OneDrive\Paramitec\Projects\Archive4\YouTube\YouTube\obj\Debug\YouTube.csproj.GenerateResource.Cache
+E:\OneDrive\Paramitec\Projects\Archive4\YouTube\YouTube\obj\Debug\YouTube.dll
+E:\OneDrive\Paramitec\Projects\Archive4\YouTube\YouTube\obj\Debug\YouTube.pdb
