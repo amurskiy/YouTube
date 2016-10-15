@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Input;
 
 namespace YouTube.WpfApp.MVVM
 {
@@ -39,6 +41,23 @@ namespace YouTube.WpfApp.MVVM
             }
         }
 
+        private ICommand _ShowProject;
 
+        public ICommand ShowProject
+        {
+            get
+            {
+                if (_ShowProject == null)
+                {
+                    _ShowProject = new MVVM.BaseCommand(ShowSelectedProject);
+                }
+                return _ShowProject;
+            }
+        }
+
+        private void ShowSelectedProject(object obj)
+        {
+            MessageBox.Show(SelectedProject);
+        }       
     }
 }

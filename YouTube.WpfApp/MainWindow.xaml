@@ -14,5 +14,9 @@
         <!--<TextBlock>Binging - позволяет привязатся к свойству модели которое мы хотели бы видеть в данно контроле</TextBlock>-->
 
         <TextBlock Margin="3" FontSize="18" Text="{Binding SelectedProject}"></TextBlock>
+
+        <Button FontSize="18" Margin="3"
+                Command="{Binding ShowProject}">Показать выбранный элемент в комбобоксе</Button>
+        
     </StackPanel>
 </Window>

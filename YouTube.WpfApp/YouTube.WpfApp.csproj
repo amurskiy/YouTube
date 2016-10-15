@@ -69,6 +69,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MVVM\BaseCommand.cs" />
     <Compile Include="MVVM\BaseViewModel.cs" />
     <Compile Include="MVVM\MainWindowViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
